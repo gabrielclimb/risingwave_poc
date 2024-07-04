@@ -1,0 +1,4 @@
+
+# docker_compose("./infra/minio/docker-compose.yaml")
+docker_compose("./infra/kafka/docker-compose.yaml")
+docker_compose("./infra/risingwave/docker-compose.yaml")
